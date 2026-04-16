@@ -525,5 +525,17 @@ body > button {
 }
 
 footer {
+    width: 100%;
     margin-top: 40px;
+    padding: 40px; 
+    box-sizing: border-box;
+    background-color: #B8F0D6;
+    text-align: left; 
 }
+
+@media (max-width: 768px) {
+    footer {
+        padding: 40px 20px; 
+    }
+}
+
