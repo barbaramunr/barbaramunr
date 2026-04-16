@@ -300,13 +300,13 @@ margin: 0 auto;
 
 .tarjeta-proyecto img {
     width: 100%;
-    height: 220px;
-    object-fit: cover;
+    height: 250px;
+    object-fit: contain;
     border-radius: 8px;
     object-position: top;
+    diplay: block;
     background-color: #CDDCD7; 
 }
-
 .tarjeta-proyecto .etiquetas {
     justify-content: center;
 }
