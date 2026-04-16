@@ -228,7 +228,7 @@ button:active {
     background-color: #CDDCD7;
 
     width: 100%;
-        max-width: 500px;
+        max-width: 413px;
 margin: 0 auto;
 
     border-radius: 12px;
@@ -281,7 +281,7 @@ margin: 0 auto;
 .tarjeta-habilidad {
     background-color: #CDDCD7;
     width: 100%;
-            max-width: 500px;
+            max-width: 413px;
 margin: 0 auto;
 
 
@@ -355,7 +355,7 @@ margin: 0 auto;
 .tarjeta {
     background-color: #CDDCD7;
     width: 100%;
-        max-width: 500px;
+        max-width: 413px;
 margin: 0 auto;
 
     border-radius: 12px;
@@ -403,7 +403,7 @@ section button {
     gap: 12px;
 
     width: 100%;
-    max-width: 500px;
+    max-width: 413px;
     margin: 0 auto;
 }
 
